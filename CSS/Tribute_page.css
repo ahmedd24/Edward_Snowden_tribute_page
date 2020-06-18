@@ -1,0 +1,41 @@
+body {
+  background-color: #C0C0C0;
+  color: black;
+}
+
+h1 {
+  font-family: lobster;
+}
+h4 {
+  font-family: lobster;
+}
+
+header {
+  background-color: #E0E0E0;
+  font-size: 14px;
+  height: 450px;
+  margin-left: 300px;
+  margin-right: 300px;
+  border-radius: 5%;
+  position: inherit;
+
+}
+
+img {
+  margin-top: 10px;
+  border-radius: 5%;
+  display: block;
+
+}
+
+ .responsive {
+  max-width: 100%;
+  height: auto;
+}
+em {
+  font-family: italic;
+}
+
+.text-center {
+  text-align: center;
+}
